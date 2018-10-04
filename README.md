@@ -7,7 +7,7 @@ If you have any questions or comments related to this work, please do not hesita
 Here's a nice figure from this work, outlining the predicted stellar types of ~ 200 close-by stars that were classified as "single-stellar" as opposed to a high-energy binary. Extinction values $E(B-V)$ indicate generally the distance of the system from us (positively correlated).
 
 {: .center}
-![SSS_class_distribution](/img/SSS_class_distribution.png)
+![SSS_class_distribution](/:img:/SSS_class_distribution.png)
 
 Thank you,
 
